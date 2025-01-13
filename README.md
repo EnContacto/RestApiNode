@@ -29,7 +29,7 @@ Before you start, make sure you have the following tools installed on your syste
    To start the server in development mode, use:
    ```bash
    node server.js
-  Esto iniciará el servidor en http://localhost:3000.
+  This will start the server in http://localhost:3000.
 4. **Testing the Endpoint**
    Open your browser or a tool like Postman or cURL and make a `GET` request to the following endpoint:
    `http://localhost:3000/hello`
@@ -37,7 +37,7 @@ Before you start, make sure you have the following tools installed on your syste
   `{
   "message": "Hello, World!"
    }`
-##Project Structure.
+## Project Structure.
    The project has the following basic structure:
    ```bash
  📁 project-restapi
