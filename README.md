@@ -30,6 +30,7 @@ Before you start, make sure you have the following tools installed on your syste
    ```bash
    node server.js
   This will start the server in http://localhost:3000.
+  
 4. **Testing the Endpoint**
    Open your browser or a tool like Postman or cURL and make a `GET` request to the following endpoint:
    `http://localhost:3000/hello`
